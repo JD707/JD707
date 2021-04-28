@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JD707
-- 👀 I’m interested in ... Python, Java
+- 👀 I’m interested in ... Python, Java, AI, AWS, Azure
 - 🌱 I’m currently learning ... C++, Python
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...jpdave7@gmail.com
