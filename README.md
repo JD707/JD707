@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JD707
 - 👀 I’m interested in ... Python, AWS, Azure, SQL, MySQL, NoSQL
-- 🌱 I’m currently learning ... C++, Python
+- 🌱 I’m currently learning ... Database admin
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...jpdave7@gmail.com
 
