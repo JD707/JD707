@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Python, AWS, Azure, SQL, MySQL, NoSQL | I'm a Data Enthusiast 
 - 🌱 I’m currently learning ... Database admin
 - 💞️ I’m looking to collaborate on ... Open-Source projects
-- 📫 How to reach me ...jpdave7@gmail.com
+- 📫 How to reach me ...jpdave7@gmail.com | https://www.linkedin.com/in/jigneshpdave/
 
 <!---
 JD707/JD707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
